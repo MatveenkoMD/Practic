@@ -1,5 +1,19 @@
 .body_content {
-    background-color: blue;
+    background-color: #2A2C2F;
     width: 100px;
     height: 100px;
+}
+.page {
+    max-width: 1280;
+    min-width: 320px;
+    top: 16px;
+    left: 16px;
+}
+.header_logo {
+    background-image: url(/img/header__logo.svg);
+    Width: 142px;
+    height: 42px;
+}
+.header_lang {
+    background-color: white;
 }
