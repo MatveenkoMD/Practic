@@ -1,0 +1,28 @@
+.body_content {
+    background-color: #2A2C2F;
+    /* width: 100px; */
+    height: 100px;
+}
+.page {
+    max-width: 1280;
+    min-width: 320px;
+    top: 16px;
+    left: 16px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+
+}
+.header_logo {
+    background-image: url('./img/__logo.svg');
+    width: 176px;
+    height: 52;
+    background-size: 176px 52px;
+}
+.header_lang {
+    color: white;
+}
