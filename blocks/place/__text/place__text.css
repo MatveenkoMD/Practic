@@ -1,0 +1,12 @@
+.place__text {
+    display: flex;
+    width: 484px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 163%;
+}
