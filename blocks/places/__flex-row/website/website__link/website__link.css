@@ -1,9 +1,5 @@
-.place__link {
-    display: flex;
+.website__link {
     width: 456px;
-    height: 22px;
-    flex-direction: column;
-    flex-shrink: 0;
     color: #FFF;
     font-family: Inter;
     font-size: 18px;

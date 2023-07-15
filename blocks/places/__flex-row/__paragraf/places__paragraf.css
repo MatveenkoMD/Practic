@@ -1,8 +1,4 @@
-.place__text {
-    display: flex;
-    width: 484px;
-    flex-direction: column;
-    flex-shrink: 0;
+.places__paragraf {
     color: #FFF;
     font-family: Inter;
     font-size: 18px;

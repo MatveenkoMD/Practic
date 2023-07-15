@@ -1,8 +1,6 @@
-.place__url-heading {
-    display: flex;
+.website__title {
     width: 456px;
     height: 12px;
-    flex-direction: column;
     flex-shrink: 0;
     color: #AAA;
     font-family: Inter;
